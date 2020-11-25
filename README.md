@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Components design (Figma)
+[https://www.figma.com/file/C3i3LtfHJ5cldna0fv5vff/Skilled-UI-Interview?node-id=40%3A2](link)
+
 ## Available Scripts
 
 In the project directory, you can run:
